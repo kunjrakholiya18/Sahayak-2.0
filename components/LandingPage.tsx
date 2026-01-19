@@ -44,7 +44,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
       {/* Main Brand Title */}
       <div className="space-y-4 mb-14">
         <h1 className="text-8xl font-black tracking-tight text-[#70d2ff] drop-shadow-[0_0_30px_rgba(112,210,255,0.3)]">
-          Sahayak AI
+          Sahayak 2.0
         </h1>
         <p className="text-[12px] uppercase tracking-[0.55em] text-gray-500 font-extrabold">
           A NEURAL CREATION • BY KUNJ
@@ -63,7 +63,7 @@ const LandingPage: React.FC<LandingPageProps> = ({ onStart }) => {
       <div className="w-full max-w-md space-y-10">
         <div className="space-y-4 text-left">
           <label className="block text-[10px] font-black text-gray-500 uppercase tracking-[0.3em] ml-2">
-            GEMINI API KEY
+            FOR VERIFICATION REENTER YOUR GEMINI API KEY
           </label>
           <div className="relative group">
             <input 
