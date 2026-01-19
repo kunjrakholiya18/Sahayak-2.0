@@ -1,0 +1,8 @@
+{
+  "name": "Sahayak AI 2.0",
+  "description": "An advanced neural assistant with deep reasoning, search, and real-time maps intelligence.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
